@@ -1,0 +1,2204 @@
+{
+  "basket.jpg": {
+    "width": 1000,
+    "height": 1500,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/basket-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/basket-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/basket-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/basket-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/basket-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/basket-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/basket-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/basket-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/basket-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/basket-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/basket-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/basket-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/basket-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/basket-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/basket-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/basket-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/basket-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/basket-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/basket-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/basket-1000.avif"
+      }
+    ],
+    "version": "ee9a13db795a4ad8"
+  },
+  "bedding.jpg": {
+    "width": 1000,
+    "height": 1500,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/bedding-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/bedding-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/bedding-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/bedding-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/bedding-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/bedding-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/bedding-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/bedding-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/bedding-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/bedding-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/bedding-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/bedding-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/bedding-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/bedding-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/bedding-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/bedding-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/bedding-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/bedding-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/bedding-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/bedding-1000.avif"
+      }
+    ],
+    "version": "efeb7528a5b77d87"
+  },
+  "bedside-table.jpg": {
+    "width": 1000,
+    "height": 667,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/bedside-table-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/bedside-table-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/bedside-table-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/bedside-table-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/bedside-table-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/bedside-table-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/bedside-table-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/bedside-table-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/bedside-table-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/bedside-table-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/bedside-table-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/bedside-table-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/bedside-table-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/bedside-table-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/bedside-table-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/bedside-table-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/bedside-table-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/bedside-table-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/bedside-table-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/bedside-table-1000.avif"
+      }
+    ],
+    "version": "495f030de38dd422"
+  },
+  "bowls.jpg": {
+    "width": 1000,
+    "height": 750,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/bowls-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/bowls-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/bowls-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/bowls-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/bowls-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/bowls-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/bowls-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/bowls-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/bowls-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/bowls-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/bowls-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/bowls-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/bowls-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/bowls-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/bowls-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/bowls-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/bowls-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/bowls-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/bowls-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/bowls-1000.avif"
+      }
+    ],
+    "version": "90826fecc8361309"
+  },
+  "candle-2.jpg": {
+    "width": 1000,
+    "height": 1500,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/candle-2-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/candle-2-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/candle-2-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/candle-2-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/candle-2-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/candle-2-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/candle-2-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/candle-2-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/candle-2-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/candle-2-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/candle-2-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/candle-2-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/candle-2-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/candle-2-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/candle-2-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/candle-2-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/candle-2-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/candle-2-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/candle-2-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/candle-2-1000.avif"
+      }
+    ],
+    "version": "2753dada8e222459"
+  },
+  "candles.jpg": {
+    "width": 1000,
+    "height": 1500,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/candles-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/candles-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/candles-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/candles-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/candles-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/candles-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/candles-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/candles-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/candles-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/candles-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/candles-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/candles-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/candles-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/candles-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/candles-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/candles-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/candles-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/candles-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/candles-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/candles-1000.avif"
+      }
+    ],
+    "version": "a31208768ad0051c"
+  },
+  "chair-2.jpg": {
+    "width": 1000,
+    "height": 1250,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/chair-2-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/chair-2-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/chair-2-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/chair-2-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/chair-2-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/chair-2-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/chair-2-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/chair-2-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/chair-2-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/chair-2-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/chair-2-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/chair-2-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/chair-2-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/chair-2-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/chair-2-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/chair-2-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/chair-2-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/chair-2-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/chair-2-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/chair-2-1000.avif"
+      }
+    ],
+    "version": "96b466d8425fede5"
+  },
+  "chair-cutout.webp": {
+    "width": 560,
+    "height": 840,
+    "variants": [
+      {
+        "width": 160,
+        "src": "/images/responsive/chair-cutout-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/chair-cutout-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/chair-cutout-320.webp"
+      },
+      {
+        "width": 400,
+        "src": "/images/responsive/chair-cutout-400.webp"
+      },
+      {
+        "width": 560,
+        "src": "/images/responsive/chair-cutout-560.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 160,
+        "src": "/images/responsive/chair-cutout-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/chair-cutout-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/chair-cutout-320.avif"
+      },
+      {
+        "width": 400,
+        "src": "/images/responsive/chair-cutout-400.avif"
+      },
+      {
+        "width": 560,
+        "src": "/images/responsive/chair-cutout-560.avif"
+      }
+    ],
+    "version": "f233aaf504e87791"
+  },
+  "chair.jpg": {
+    "width": 1000,
+    "height": 1500,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/chair-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/chair-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/chair-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/chair-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/chair-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/chair-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/chair-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/chair-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/chair-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/chair-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/chair-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/chair-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/chair-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/chair-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/chair-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/chair-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/chair-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/chair-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/chair-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/chair-1000.avif"
+      }
+    ],
+    "version": "a71421b67ce54845"
+  },
+  "curtains.jpg": {
+    "width": 1000,
+    "height": 750,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/curtains-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/curtains-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/curtains-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/curtains-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/curtains-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/curtains-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/curtains-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/curtains-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/curtains-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/curtains-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/curtains-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/curtains-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/curtains-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/curtains-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/curtains-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/curtains-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/curtains-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/curtains-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/curtains-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/curtains-1000.avif"
+      }
+    ],
+    "version": "729ce55689361fd7"
+  },
+  "cushion.jpg": {
+    "width": 1000,
+    "height": 1000,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/cushion-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/cushion-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/cushion-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/cushion-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/cushion-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/cushion-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/cushion-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/cushion-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/cushion-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/cushion-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/cushion-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/cushion-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/cushion-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/cushion-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/cushion-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/cushion-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/cushion-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/cushion-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/cushion-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/cushion-1000.avif"
+      }
+    ],
+    "version": "197bcee81f18132b"
+  },
+  "floor-lamp.jpg": {
+    "width": 1000,
+    "height": 1500,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/floor-lamp-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/floor-lamp-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/floor-lamp-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/floor-lamp-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/floor-lamp-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/floor-lamp-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/floor-lamp-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/floor-lamp-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/floor-lamp-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/floor-lamp-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/floor-lamp-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/floor-lamp-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/floor-lamp-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/floor-lamp-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/floor-lamp-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/floor-lamp-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/floor-lamp-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/floor-lamp-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/floor-lamp-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/floor-lamp-1000.avif"
+      }
+    ],
+    "version": "7bf14cd46221249e"
+  },
+  "hero.jpg": {
+    "width": 1440,
+    "height": 1080,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/hero-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/hero-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/hero-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/hero-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/hero-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/hero-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/hero-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/hero-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/hero-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/hero-1000.webp"
+      },
+      {
+        "width": 1440,
+        "src": "/images/responsive/hero-1440.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/hero-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/hero-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/hero-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/hero-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/hero-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/hero-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/hero-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/hero-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/hero-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/hero-1000.avif"
+      },
+      {
+        "width": 1440,
+        "src": "/images/responsive/hero-1440.avif"
+      }
+    ],
+    "version": "0e55d5ce992e7309"
+  },
+  "lamp-2.jpg": {
+    "width": 1000,
+    "height": 1500,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/lamp-2-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/lamp-2-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/lamp-2-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/lamp-2-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/lamp-2-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/lamp-2-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/lamp-2-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/lamp-2-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/lamp-2-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/lamp-2-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/lamp-2-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/lamp-2-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/lamp-2-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/lamp-2-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/lamp-2-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/lamp-2-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/lamp-2-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/lamp-2-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/lamp-2-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/lamp-2-1000.avif"
+      }
+    ],
+    "version": "66751c86f422bd15"
+  },
+  "lamp-cutout.webp": {
+    "width": 560,
+    "height": 840,
+    "variants": [
+      {
+        "width": 160,
+        "src": "/images/responsive/lamp-cutout-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/lamp-cutout-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/lamp-cutout-320.webp"
+      },
+      {
+        "width": 400,
+        "src": "/images/responsive/lamp-cutout-400.webp"
+      },
+      {
+        "width": 560,
+        "src": "/images/responsive/lamp-cutout-560.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 160,
+        "src": "/images/responsive/lamp-cutout-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/lamp-cutout-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/lamp-cutout-320.avif"
+      },
+      {
+        "width": 400,
+        "src": "/images/responsive/lamp-cutout-400.avif"
+      },
+      {
+        "width": 560,
+        "src": "/images/responsive/lamp-cutout-560.avif"
+      }
+    ],
+    "version": "9b947757d5ccf1ef"
+  },
+  "pendant.jpg": {
+    "width": 1000,
+    "height": 1500,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/pendant-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/pendant-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/pendant-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/pendant-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/pendant-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/pendant-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/pendant-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/pendant-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/pendant-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/pendant-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/pendant-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/pendant-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/pendant-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/pendant-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/pendant-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/pendant-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/pendant-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/pendant-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/pendant-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/pendant-1000.avif"
+      }
+    ],
+    "version": "81e7a9946fef187b"
+  },
+  "rug.jpg": {
+    "width": 1000,
+    "height": 667,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/rug-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/rug-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/rug-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/rug-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/rug-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/rug-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/rug-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/rug-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/rug-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/rug-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/rug-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/rug-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/rug-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/rug-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/rug-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/rug-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/rug-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/rug-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/rug-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/rug-1000.avif"
+      }
+    ],
+    "version": "f93e20bdeb8348a2"
+  },
+  "shelf.jpg": {
+    "width": 1000,
+    "height": 655,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/shelf-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/shelf-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/shelf-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/shelf-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/shelf-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/shelf-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/shelf-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/shelf-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/shelf-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/shelf-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/shelf-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/shelf-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/shelf-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/shelf-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/shelf-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/shelf-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/shelf-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/shelf-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/shelf-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/shelf-1000.avif"
+      }
+    ],
+    "version": "dd12a53ad41991e3"
+  },
+  "small-vase.jpg": {
+    "width": 1000,
+    "height": 705,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/small-vase-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/small-vase-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/small-vase-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/small-vase-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/small-vase-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/small-vase-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/small-vase-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/small-vase-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/small-vase-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/small-vase-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/small-vase-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/small-vase-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/small-vase-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/small-vase-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/small-vase-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/small-vase-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/small-vase-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/small-vase-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/small-vase-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/small-vase-1000.avif"
+      }
+    ],
+    "version": "643000d15cf01efa"
+  },
+  "sofa.jpg": {
+    "width": 1000,
+    "height": 667,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/sofa-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/sofa-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/sofa-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/sofa-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/sofa-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/sofa-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/sofa-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/sofa-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/sofa-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/sofa-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/sofa-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/sofa-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/sofa-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/sofa-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/sofa-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/sofa-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/sofa-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/sofa-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/sofa-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/sofa-1000.avif"
+      }
+    ],
+    "version": "d7f49d948eb2246f"
+  },
+  "stool.jpg": {
+    "width": 1000,
+    "height": 1778,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/stool-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/stool-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/stool-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/stool-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/stool-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/stool-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/stool-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/stool-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/stool-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/stool-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/stool-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/stool-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/stool-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/stool-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/stool-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/stool-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/stool-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/stool-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/stool-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/stool-1000.avif"
+      }
+    ],
+    "version": "6b0b27d15b7af56b"
+  },
+  "table-lamp.jpg": {
+    "width": 1000,
+    "height": 667,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/table-lamp-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/table-lamp-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/table-lamp-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/table-lamp-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/table-lamp-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/table-lamp-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/table-lamp-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/table-lamp-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/table-lamp-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/table-lamp-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/table-lamp-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/table-lamp-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/table-lamp-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/table-lamp-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/table-lamp-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/table-lamp-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/table-lamp-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/table-lamp-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/table-lamp-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/table-lamp-1000.avif"
+      }
+    ],
+    "version": "4e05968f8e9ccb4b"
+  },
+  "table.jpg": {
+    "width": 1000,
+    "height": 1280,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/table-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/table-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/table-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/table-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/table-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/table-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/table-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/table-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/table-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/table-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/table-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/table-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/table-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/table-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/table-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/table-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/table-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/table-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/table-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/table-1000.avif"
+      }
+    ],
+    "version": "e6def8467ed31a66"
+  },
+  "throw.jpg": {
+    "width": 1000,
+    "height": 1123,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/throw-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/throw-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/throw-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/throw-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/throw-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/throw-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/throw-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/throw-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/throw-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/throw-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/throw-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/throw-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/throw-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/throw-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/throw-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/throw-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/throw-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/throw-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/throw-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/throw-1000.avif"
+      }
+    ],
+    "version": "d3ae14fc5e33a54f"
+  },
+  "vase-cutout.webp": {
+    "width": 560,
+    "height": 840,
+    "variants": [
+      {
+        "width": 160,
+        "src": "/images/responsive/vase-cutout-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/vase-cutout-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/vase-cutout-320.webp"
+      },
+      {
+        "width": 400,
+        "src": "/images/responsive/vase-cutout-400.webp"
+      },
+      {
+        "width": 560,
+        "src": "/images/responsive/vase-cutout-560.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 160,
+        "src": "/images/responsive/vase-cutout-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/vase-cutout-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/vase-cutout-320.avif"
+      },
+      {
+        "width": 400,
+        "src": "/images/responsive/vase-cutout-400.avif"
+      },
+      {
+        "width": 560,
+        "src": "/images/responsive/vase-cutout-560.avif"
+      }
+    ],
+    "version": "e015c830dd67ff92"
+  },
+  "vase.jpg": {
+    "width": 1000,
+    "height": 1500,
+    "variants": [
+      {
+        "width": 120,
+        "src": "/images/responsive/vase-120.webp"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/vase-160.webp"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/vase-240.webp"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/vase-320.webp"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/vase-360.webp"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/vase-480.webp"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/vase-600.webp"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/vase-720.webp"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/vase-800.webp"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/vase-1000.webp"
+      }
+    ],
+    "avif": [
+      {
+        "width": 120,
+        "src": "/images/responsive/vase-120.avif"
+      },
+      {
+        "width": 160,
+        "src": "/images/responsive/vase-160.avif"
+      },
+      {
+        "width": 240,
+        "src": "/images/responsive/vase-240.avif"
+      },
+      {
+        "width": 320,
+        "src": "/images/responsive/vase-320.avif"
+      },
+      {
+        "width": 360,
+        "src": "/images/responsive/vase-360.avif"
+      },
+      {
+        "width": 480,
+        "src": "/images/responsive/vase-480.avif"
+      },
+      {
+        "width": 600,
+        "src": "/images/responsive/vase-600.avif"
+      },
+      {
+        "width": 720,
+        "src": "/images/responsive/vase-720.avif"
+      },
+      {
+        "width": 800,
+        "src": "/images/responsive/vase-800.avif"
+      },
+      {
+        "width": 1000,
+        "src": "/images/responsive/vase-1000.avif"
+      }
+    ],
+    "version": "4011fd6a253c11a2"
+  }
+}

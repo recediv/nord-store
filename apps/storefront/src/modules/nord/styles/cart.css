@@ -1,0 +1,43 @@
+@layer vendor, nord-base, nord-components, nord-pages;
+@layer nord-pages {
+  .cart-page-items > .text-link {
+    margin-top: 25px;
+  }
+  .cart-page-items .cart-line-image {
+    width: 90px;
+    min-width: 90px;
+    height: 115px;
+  }
+  .cart-page-items .cart-line {
+    gap: 17px;
+    padding: 22px 0;
+  }
+  .cart-page-items .cart-line-info > strong {
+    font-size: 13px;
+  }
+  .cart-page-items .cart-line-info {
+    padding: 7px 0;
+    font-size: 17px;
+  }
+  .cart-page-items .cart-line-info > a {
+    font-size: 16px;
+  }
+  @media (min-width: 601px) {
+    .cart-page-items .cart-line {
+      gap: 24px;
+      padding-top: 24px;
+      padding-bottom: 24px;
+    }
+    .cart-page-items .cart-line-image {
+      width: 120px;
+      min-width: 120px;
+      height: 145px;
+    }
+    .cart-page-items .cart-line-info > strong {
+      font-size: 15px;
+    }
+    .cart-page-items .cart-line-info > a {
+      font-size: revert-layer;
+    }
+  }
+}

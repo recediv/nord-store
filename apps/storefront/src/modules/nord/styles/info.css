@@ -1,0 +1,255 @@
+@layer vendor, nord-base, nord-components, nord-pages;
+@layer nord-pages {
+  .about-page {
+    padding-top: 35px;
+    padding-bottom: 50px;
+  }
+
+  .about-intro {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    align-items: end;
+    gap: 22px;
+    margin-bottom: 30px;
+  }
+
+  .about-intro .eyebrow {
+    grid-column: 1 / -1;
+    margin-bottom: 0;
+  }
+
+  .about-intro h1 {
+    font-size: 39px;
+    line-height: 1.15;
+  }
+
+  .about-intro h1 em {
+    color: var(--accent);
+  }
+
+  .about-intro p,
+  .about-values p,
+  .help-page p {
+    color: var(--muted);
+    font-size: 15px;
+    line-height: 1.75;
+  }
+
+  .about-photo {
+    width: 100%;
+    height: 280px;
+    border-radius: 4px;
+    object-fit: cover;
+    object-position: 50% 65%;
+  }
+
+  .about-values {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 35px;
+    padding: 35px 0;
+  }
+
+  .about-values svg {
+    margin-bottom: 13px;
+    color: var(--green);
+  }
+
+  .about-values h2 {
+    margin-bottom: 11px;
+    font-size: 26px;
+    line-height: 1.4;
+    letter-spacing: -0.6px;
+  }
+
+  .about-demo {
+    padding: 25px;
+    margin-bottom: 30px;
+    border-radius: 4px;
+    background: #efeee6;
+  }
+
+  .about-demo h2 {
+    margin-bottom: 10px;
+    font-size: 18px;
+    letter-spacing: 0;
+  }
+
+  .about-demo p {
+    color: var(--muted);
+    font-size: 13px;
+  }
+
+  .inspiration-page {
+    padding-top: 25px;
+    padding-bottom: 45px;
+  }
+
+  .inspiration-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 35px;
+    margin-top: 25px;
+  }
+
+  .inspiration-grid > a > div {
+    position: relative;
+    height: 280px;
+    overflow: hidden;
+    border-radius: 4px;
+  }
+
+  .inspiration-grid img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .inspiration-grid > a > div > span {
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+    display: grid;
+    place-items: center;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: #fff;
+  }
+
+  .inspiration-grid h2 {
+    margin: 19px 0 9px;
+    font-size: 27px;
+    line-height: 1.4;
+  }
+
+  .inspiration-grid p {
+    color: var(--muted);
+    font-size: 14px;
+  }
+
+  .inspiration-grid small {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 15px;
+    font-size: 13px;
+  }
+
+  .help-page {
+    padding-top: 35px;
+    padding-bottom: 55px;
+  }
+
+  .help-page h1 {
+    max-width: 900px;
+    margin: 28px 0;
+    font-size: 32px;
+    line-height: 1.4;
+  }
+
+  .help-page p {
+    max-width: 780px;
+    margin-bottom: 24px;
+  }
+
+  .help-page > .button {
+    margin-top: 20px;
+  }
+
+  .not-found-number {
+    color: var(--accent);
+    font-family: Georgia, serif;
+    font-size: 90px;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .inspiration-grid img {
+      transition: transform 400ms ease;
+    }
+
+    .inspiration-grid a:hover img,
+    .inspiration-grid a:focus-visible img {
+      transform: scale(1.03);
+    }
+  }
+
+  @media (min-width: 601px) {
+    .about-page {
+      padding-top: 65px;
+      padding-bottom: 65px;
+    }
+
+    .about-intro {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 20px 50px;
+      margin-bottom: 50px;
+    }
+
+    .about-intro h1 {
+      font-size: 50px;
+    }
+
+    .about-intro p,
+    .about-values p,
+    .help-page p {
+      font-size: 16px;
+    }
+
+    .about-photo {
+      height: 380px;
+    }
+
+    .about-values {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 25px;
+      padding: 55px 0;
+    }
+
+    .about-values svg {
+      margin-bottom: 20px;
+    }
+
+    .about-values h2 {
+      margin-bottom: 15px;
+      font-size: 25px;
+    }
+
+    .inspiration-page {
+      padding-top: 40px;
+      padding-bottom: 65px;
+    }
+
+    .inspiration-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 40px 28px;
+    }
+
+    .inspiration-grid > a > div {
+      height: 270px;
+    }
+
+    .help-page {
+      padding-top: 65px;
+      padding-bottom: 95px;
+    }
+
+    .help-page h1 {
+      font-size: 37px;
+    }
+  }
+
+  @media (min-width: 851px) {
+    .about-photo {
+      height: 490px;
+    }
+
+    .about-values {
+      gap: 45px;
+    }
+
+    .inspiration-grid > a > div {
+      height: 345px;
+    }
+  }
+}

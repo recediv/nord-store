@@ -1,0 +1,6 @@
+@layer vendor, nord-base, nord-components, nord-pages;
+@import "./fonts.css";
+@import "./base.css";
+@import "./header.css";
+@import "./footer.css";
+@import "./dialog.css";

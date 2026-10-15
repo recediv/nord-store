@@ -1,0 +1,44 @@
+{
+  "name": "@nord/backend",
+  "version": "1.0.0",
+  "author": "Shutni[mz]",
+  "license": "GPL-3.0-only",
+  "private": true,
+  "scripts": {
+    "dev": "medusa develop",
+    "start": "medusa start",
+    "build": "medusa build",
+    "typecheck": "tsc --noEmit",
+    "db:migrate": "medusa db:migrate",
+    "seed": "medusa exec ./src/scripts/seed.ts",
+    "create-admin": "medusa user"
+  },
+  "dependencies": {
+    "@medusajs/admin-sdk": "2.18.0",
+    "@medusajs/cli": "2.18.0",
+    "@medusajs/draft-order": "2.18.0",
+    "@medusajs/file-local": "^2.18.0",
+    "@medusajs/framework": "2.18.0",
+    "@medusajs/medusa": "2.18.0",
+    "@medusajs/ui": "^4.2.0",
+    "@nord/images": "1.0.0",
+    "@tanstack/react-query": "^5.64.2",
+    "csv-parse": "5.6.0",
+    "csv-stringify": "6.6.0",
+    "react-router-dom": "6.30.4",
+    "slugify": "1.6.9"
+  },
+  "devDependencies": {
+    "@swc/core": "^1.7.28",
+    "@types/node": "^22.10.0",
+    "@types/react": "^18.3.2",
+    "@types/react-dom": "^18.2.25",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

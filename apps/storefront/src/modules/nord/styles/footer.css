@@ -1,0 +1,127 @@
+@layer vendor, nord-base, nord-components, nord-pages;
+@layer nord-components {
+  .footer-top > div:last-child {
+    display: none;
+  }
+  .footer-bottom > span:last-child {
+    width: 100%;
+  }
+  .footer-contact {
+    line-height: 1.9;
+    font-size: 13px;
+    color: #d1dbcb;
+  }
+  .footer-contact span {
+    font-size: 11px;
+    color: #afc0a7;
+  }
+  .footer-note {
+    margin-top: 25px;
+    display: none;
+    font-size: 11px;
+    color: #afc0a7;
+  }
+  .footer-top a:hover {
+    color: #ebbbab;
+  }
+  .footer {
+    background: #214c38;
+    color: var(--background);
+    border-top: 0;
+    padding-top: 34px;
+  }
+  .footer-brand {
+    grid-column: 1/-1;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 24px;
+  }
+  .footer-brand .logo {
+    display: inline-block;
+    margin: 0;
+    font-size: 43px;
+  }
+  .footer-brand p {
+    line-height: 1.6;
+    color: #cfdbc8;
+    font-size: 13px;
+  }
+  .footer-top {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px;
+    padding-bottom: 31px;
+  }
+  .footer h2 {
+    font-family: var(--font-body);
+    font-weight: 500;
+    letter-spacing: 0;
+    font-size: 14px;
+    margin-bottom: 19px;
+  }
+  .footer-top > div > a:not(.logo) {
+    display: block;
+    margin-bottom: 14px;
+    color: #d1dbcb;
+    font-size: 13px;
+  }
+  .footer-bottom {
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 1px solid #e1e1d7;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    border-top-color: #ffffff24;
+    color: #afc0a7;
+    gap: 14px 20px;
+    font-size: 10px;
+  }
+  @media (min-width: 601px) {
+    .footer-note {
+      display: block;
+    }
+    .footer-top {
+      padding-bottom: 42px;
+      gap: 25px;
+      grid-template-columns: 1.3fr 1fr 1fr;
+    }
+    .footer-bottom > span:last-child {
+      width: revert-layer;
+    }
+    .footer {
+      padding-top: 45px;
+    }
+    .footer-brand .logo {
+      margin: 0 0 22px;
+      font-size: 47px;
+    }
+    .footer-brand p {
+      font-size: 14px;
+    }
+    .footer h2 {
+      margin-bottom: 22px;
+    }
+    .footer-bottom {
+      justify-content: space-between;
+      gap: 15px;
+      flex-wrap: revert-layer;
+      font-size: 11px;
+    }
+    .footer-brand {
+      grid-column: revert-layer;
+      display: block;
+    }
+  }
+  @media (min-width: 851px) {
+    .footer-top {
+      grid-template-columns: 1.5fr 1fr 1fr 1fr;
+      gap: 40px;
+    }
+    .footer-top > div:last-child {
+      display: block;
+    }
+  }
+}

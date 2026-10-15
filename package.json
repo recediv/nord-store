@@ -1,0 +1,37 @@
+{
+  "name": "nord-medusa-demo",
+  "private": true,
+  "version": "1.0.0",
+  "author": "Shutni[mz]",
+  "license": "GPL-3.0-only",
+  "workspaces": [
+    "apps/backend",
+    "packages/images"
+  ],
+  "scripts": {
+    "dev": "npm --prefix apps/storefront run dev",
+    "dev:full": "node scripts/dev.mjs",
+    "dev:backend": "npm run dev --workspace @nord/backend",
+    "build": "npm --prefix apps/storefront run build",
+    "build:demo": "node scripts/build-demo.mjs",
+    "preview": "npm --prefix apps/storefront run preview",
+    "preview:demo": "node scripts/preview-demo.mjs",
+    "build:backend": "npm run build --workspace @nord/backend",
+    "typecheck": "npm --prefix apps/storefront run typecheck && npm run typecheck --workspace @nord/backend",
+    "db:migrate": "npm run db:migrate --workspace @nord/backend",
+    "seed": "npm run seed --workspace @nord/backend",
+    "setup": "node scripts/setup.mjs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "images:optimize": "node scripts/optimize-images.mjs",
+    "lint:storefront": "npm --prefix apps/storefront run lint"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.10",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

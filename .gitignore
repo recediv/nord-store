@@ -1,0 +1,21 @@
+node_modules/
+dist/
+apps/backend/static/
+.next/
+.next-demo/
+out/
+apps/storefront/out-demo/
+apps/.nord-demo-build-*/
+*.tsbuildinfo
+.medusa/
+# Local database, generated connection settings, documentation and developer reports.
+/.runtime/
+.env
+.env.*
+!.env.example
+!.env.template
+*.log
+*.tar.gz
+.openai/
+__pycache__/
+*.py[cod]

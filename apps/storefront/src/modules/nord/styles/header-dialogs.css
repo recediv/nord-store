@@ -1,0 +1,120 @@
+@layer vendor, nord-base, nord-components, nord-pages;
+@layer nord-components {
+  .search-results img {
+    width: 55px;
+    height: 64px;
+  }
+  .empty-search {
+    padding-top: 20px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .mobile-nav {
+    display: flex;
+    flex-direction: column;
+  }
+  .mobile-nav a,
+  .mobile-nav > button {
+    display: flex;
+    justify-content: space-between;
+    padding: 18px 0;
+    border-bottom: 1px solid var(--line);
+    text-align: left;
+  }
+  .search-form {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+  }
+  .search-form .button {
+    font-size: 11px;
+    gap: 0;
+    padding: 10px 13px;
+  }
+  .city-options {
+    display: grid;
+    gap: 7px;
+    margin-top: 20px;
+    grid-template-columns: 1fr;
+  }
+  .search-results > a {
+    display: flex;
+    align-items: center;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--line);
+    gap: 10px;
+    font-size: 14px;
+  }
+  .search-results small {
+    display: block;
+    color: var(--muted);
+    margin-top: 5px;
+    font-size: 12px;
+  }
+  .search-results strong {
+    margin-left: auto;
+    font-size: 14px;
+  }
+  .mobile-category-images {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px 14px;
+    margin-top: 28px;
+  }
+  .search-form input {
+    border: 0;
+    flex: 1;
+    min-width: 0;
+    padding: 12px 3px;
+    font-size: 16px;
+  }
+  .city-options button {
+    padding: 15px;
+    text-align: left;
+    background: var(--paper);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 14px;
+    border-radius: 3px;
+  }
+  .mobile-nav > a,
+  .mobile-nav > button {
+    font-size: 20px;
+  }
+  .mobile-category-images a > span {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  .mobile-category-images img {
+    background: var(--paper);
+    height: 155px;
+    border-radius: 4px;
+  }
+  @media (min-width: 601px) {
+    .search-results > a {
+      gap: 16px;
+    }
+    .city-options {
+      grid-template-columns: 1fr 1fr;
+    }
+    .search-form {
+      flex-wrap: revert-layer;
+    }
+    .search-form .button {
+      font-size: revert-layer;
+      gap: revert-layer;
+      padding: revert-layer;
+    }
+    .mobile-category-images img {
+      height: 145px;
+    }
+  }
+}

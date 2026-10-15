@@ -1,0 +1,12 @@
+NORD
+Copyright (C) 2026 Shutni[mz]
+
+NORD-specific code and modifications are licensed under GPL-3.0-only.
+
+The storefront includes code derived from the Medusa Next.js starter.
+Copyright (c) 2022 Medusa. Its MIT license is retained in apps/storefront/LICENSE.
+
+Fonts retain the licenses in apps/storefront/public/fonts/OFL.txt and
+apps/storefront/public/fonts/Prata-OFL.txt.
+
+Third-party dependencies retain their respective licenses.

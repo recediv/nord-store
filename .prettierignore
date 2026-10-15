@@ -1,0 +1,13 @@
+node_modules/
+**/node_modules/
+dist/
+.next/
+out/
+*.tsbuildinfo
+.runtime/
+.git/
+**/.medusa/
+apps/backend/static/
+.openai/
+**/.env*
+**/package-lock.json
